@@ -8,5 +8,5 @@ print("Hello World")
 name = input("what is your name? ")
 If name == "Scott"
 	print("You Rock")
-else 
+else:
 	print("You Suck")
